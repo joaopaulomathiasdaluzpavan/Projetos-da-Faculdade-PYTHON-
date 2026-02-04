@@ -46,7 +46,3 @@ if len(cpf) == 11:
   
 elif len(cpf) < 11 or len(cpf) > 11:
    print('\nA primeira etapa da validação do CPF está Inválida')
-   
-# erro em 56778934577
-# torna o 56778934577 em 56778934557557 erro em 56778934577
-# torna o 56778934577 em 56778934557557
